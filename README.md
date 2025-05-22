@@ -2,7 +2,8 @@
 A Group Project made by OpenCV, face_recognition, Skikit-learn (K-nearest neighbors) and Tkinter, Numpy.
 
 A simple face recognition trainer built with Python, using face_recognition, scikit-learn (KNN), and a Tkinter GUI. The project extracts face embeddings from images, trains a K-Nearest Neighbors model, and validates it to select the best hyperparameter k.
-**"Slideshow:"** https://www.canva.com/design/DAGoKdG9TCo/lAit-DA2huWeTLG3eu5tlQ/edit?utm_content=DAGoKdG9TCo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+**Slideshow:** [Canva](https://tinyurl.com/22pzx9mcf)
 ## 🚀 Features
 
 - 🧠 Automatically trains a face recognition model using the KNN algorithm  
